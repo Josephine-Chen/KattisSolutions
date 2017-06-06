@@ -15,3 +15,4 @@ Feel free to PR if you have a faster solution
 * [FizzBuzz](https://github.com/Josephine-Chen/KattisSolutions/blob/master/fizzbuzz.py)
 * [Dice Cup](https://github.com/Josephine-Chen/KattisSolutions/blob/master/dicecup.py)
 * [Cold-puter Science](https://github.com/Josephine-Chen/KattisSolutions/blob/master/cold.py)
+* [Bijele](https://github.com/Josephine-Chen/KattisSolutions/blob/master/bijele.py)
