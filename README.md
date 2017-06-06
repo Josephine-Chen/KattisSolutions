@@ -1,2 +1,2 @@
 # KattisSolutions
-Practice with python
+Python practice
