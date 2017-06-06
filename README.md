@@ -1,6 +1,7 @@
 # KattisSolutions
-Python practice and learning how to use Kattis
-Feel free to PR if you have a faster solution
+Python practice and learning how to use Kattis.
+
+Feel free to PR if you have a faster solution.
 
 ## Trivial
 * [Apaxiaaaaaaaaaaaans!](https://github.com/Josephine-Chen/KattisSolutions/blob/master/apaxiaaans.py)
@@ -15,6 +16,10 @@ Feel free to PR if you have a faster solution
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
 * [Solving for Carrots](https://github.com/Josephine-Chen/KattisSolutions/blob/master/carrots.py)
+* [Spavanac](https://github.com/Josephine-Chen/KattisSolutions/blob/master/spavanac.py)
+* [Speed Limit](https://github.com/Josephine-Chen/KattisSolutions/blob/master/speedlimit.py)
 * [Stuck In A Time Loop](https://github.com/Josephine-Chen/KattisSolutions/blob/master/timeloop.py)
 * [Take Two Stones](https://github.com/Josephine-Chen/KattisSolutions/blob/master/twostones.py)
+* [Tarifa](https://github.com/Josephine-Chen/KattisSolutions/blob/master/tarifa.py)
+* [Trik](https://github.com/Josephine-Chen/KattisSolutions/blob/master/trik.py)
 
