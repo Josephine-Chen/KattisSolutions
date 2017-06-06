@@ -15,6 +15,7 @@ Feel free to PR if you have a faster solution.
 * [Pot](https://github.com/Josephine-Chen/KattisSolutions/blob/master/pot.py)
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
+* [Sibice](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sibice.py)
 * [Solving for Carrots](https://github.com/Josephine-Chen/KattisSolutions/blob/master/carrots.py)
 * [Spavanac](https://github.com/Josephine-Chen/KattisSolutions/blob/master/spavanac.py)
 * [Speed Limit](https://github.com/Josephine-Chen/KattisSolutions/blob/master/speedlimit.py)
