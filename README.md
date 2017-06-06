@@ -26,6 +26,7 @@ Feel free to PR if you have a faster solution.
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
 * [Sibice](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sibice.py)
+* [Simon Says](https://github.com/Josephine-Chen/KattisSolutions/blob/master/simonsays.py)
 * [Solving for Carrots](https://github.com/Josephine-Chen/KattisSolutions/blob/master/carrots.py)
 * [Spavanac](https://github.com/Josephine-Chen/KattisSolutions/blob/master/spavanac.py)
 * [Speed Limit](https://github.com/Josephine-Chen/KattisSolutions/blob/master/speedlimit.py)
@@ -33,4 +34,7 @@ Feel free to PR if you have a faster solution.
 * [Take Two Stones](https://github.com/Josephine-Chen/KattisSolutions/blob/master/twostones.py)
 * [Tarifa](https://github.com/Josephine-Chen/KattisSolutions/blob/master/tarifa.py)
 * [Trik](https://github.com/Josephine-Chen/KattisSolutions/blob/master/trik.py)
+* [Vauvau](https://github.com/Josephine-Chen/KattisSolutions/blob/master/vauvau.py)
+* [Veci](https://github.com/Josephine-Chen/KattisSolutions/blob/master/veci.py)
+* [Un-bear-able Zoo](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zoo.py)
 
