@@ -11,4 +11,7 @@ Feel free to PR if you have a faster solution
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
 * [Pot](https://github.com/Josephine-Chen/KattisSolutions/blob/master/pot.py)
+* [Oddities](https://github.com/Josephine-Chen/KattisSolutions/blob/master/oddities.py)
+* [FizzBuzz](https://github.com/Josephine-Chen/KattisSolutions/blob/master/fizzbuzz.py)
+* [Dice Cup](https://github.com/Josephine-Chen/KattisSolutions/blob/master/dicecup.py)
 * [Cold-puter Science](https://github.com/Josephine-Chen/KattisSolutions/blob/master/cold.py)
