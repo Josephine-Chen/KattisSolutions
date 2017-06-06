@@ -10,4 +10,5 @@ Feel free to PR if you have a faster solution
 * [Solving for Carrots](https://github.com/Josephine-Chen/KattisSolutions/blob/master/carrots.py)
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
+* [Pot](https://github.com/Josephine-Chen/KattisSolutions/blob/master/pot.py)
 * [Cold-puter Science](https://github.com/Josephine-Chen/KattisSolutions/blob/master/cold.py)
