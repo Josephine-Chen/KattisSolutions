@@ -1,4 +1,4 @@
-# KattisSolutions
+# Kattis Solutions
 Python practice and learning how to use Kattis.
 
 Feel free to PR if you have a faster solution.
@@ -30,6 +30,7 @@ Feel free to PR if you have a faster solution.
 * [Solving for Carrots](https://github.com/Josephine-Chen/KattisSolutions/blob/master/carrots.py)
 * [Spavanac](https://github.com/Josephine-Chen/KattisSolutions/blob/master/spavanac.py)
 * [Speed Limit](https://github.com/Josephine-Chen/KattisSolutions/blob/master/speedlimit.py)
+* [Statistics](https://github.com/Josephine-Chen/KattisSolutions/blob/master/statistics.py)
 * [Stuck In A Time Loop](https://github.com/Josephine-Chen/KattisSolutions/blob/master/timeloop.py)
 * [Take Two Stones](https://github.com/Josephine-Chen/KattisSolutions/blob/master/twostones.py)
 * [Tarifa](https://github.com/Josephine-Chen/KattisSolutions/blob/master/tarifa.py)
@@ -38,3 +39,19 @@ Feel free to PR if you have a faster solution.
 * [Veci](https://github.com/Josephine-Chen/KattisSolutions/blob/master/veci.py)
 * [Un-bear-able Zoo](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zoo.py)
 
+
+## Notes about problem-solving
+* input() gets one line of input at a time. Call it again to get the next line.
+* Use map(int, input().split()) to quickly handle input lines with multiple numbers
+* You need to import sys to use sys.stdin. Good way to handle cases where the number of inputs is unknown.
+* Using {}.format(x) is a useful way of organizing prints
+* If the problem mentions 10^-6, use float
+
+## Notes on Python
+* === is not used in Python
+* bin() adds information about bytes
+* You don't have to worry about popping, shifting, etc. Just use pop(index).
+* Join order is ' '.join(set).
+* import re to use regex
+* Regex is different. Use findall(r'something', string) to find all something in string.
+* trig is in radians
