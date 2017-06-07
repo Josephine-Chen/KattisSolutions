@@ -32,12 +32,16 @@ Feel free to PR if you have a faster solution.
 * [Speed Limit](https://github.com/Josephine-Chen/KattisSolutions/blob/master/speedlimit.py)
 * [Statistics](https://github.com/Josephine-Chen/KattisSolutions/blob/master/statistics.py)
 * [Stuck In A Time Loop](https://github.com/Josephine-Chen/KattisSolutions/blob/master/timeloop.py)
+* [Symmetric Order](https://github.com/Josephine-Chen/KattisSolutions/blob/master/symmetricorder.py)
 * [Take Two Stones](https://github.com/Josephine-Chen/KattisSolutions/blob/master/twostones.py)
 * [Tarifa](https://github.com/Josephine-Chen/KattisSolutions/blob/master/tarifa.py)
+* [The Amazing Human Cannonball](https://github.com/Josephine-Chen/KattisSolutions/blob/master/humancannonball2.py)
+* [The Easiest One](https://github.com/Josephine-Chen/KattisSolutions/blob/master/easiest.py)
 * [Trik](https://github.com/Josephine-Chen/KattisSolutions/blob/master/trik.py)
 * [Vauvau](https://github.com/Josephine-Chen/KattisSolutions/blob/master/vauvau.py)
 * [Veci](https://github.com/Josephine-Chen/KattisSolutions/blob/master/veci.py)
 * [Un-bear-able Zoo](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zoo.py)
+* [Zamka](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zamka.py)
 
 
 ## Notes about problem-solving
@@ -55,3 +59,4 @@ Feel free to PR if you have a faster solution.
 * import re to use regex
 * Regex is different. Use findall(r'something', string) to find all something in string.
 * trig is in radians
+* sum(map(int, str(x))) to sum all digits in number
