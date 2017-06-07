@@ -25,6 +25,7 @@ Feel free to PR if you have a faster solution.
 * [Pot](https://github.com/Josephine-Chen/KattisSolutions/blob/master/pot.py)
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
+* [Seven Wonders](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sevenwonders.py)
 * [Sibice](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sibice.py)
 * [Simon Says](https://github.com/Josephine-Chen/KattisSolutions/blob/master/simonsays.py)
 * [Skener](https://github.com/Josephine-Chen/KattisSolutions/blob/master/skener.py)
