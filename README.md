@@ -19,10 +19,13 @@ Feel free to PR if you have a faster solution.
 * [Hello World!](https://github.com/Josephine-Chen/KattisSolutions/blob/master/hello.py)
 * [I've Been Everywhere, Man](https://github.com/Josephine-Chen/KattisSolutions/blob/master/everywhere.py)
 * [Ladder](https://github.com/Josephine-Chen/KattisSolutions/blob/master/ladder.py)
+* [Mixed Fractions](https://github.com/Josephine-Chen/KattisSolutions/blob/master/mixedfractions.py)
 * [Modulo](https://github.com/Josephine-Chen/KattisSolutions/blob/master/modulo.py)
 * [Oddities](https://github.com/Josephine-Chen/KattisSolutions/blob/master/oddities.py)
+* [Odd Man Out](https://github.com/Josephine-Chen/KattisSolutions/blob/master/oddmanout.py)
 * [Pet](https://github.com/Josephine-Chen/KattisSolutions/blob/master/pet.py)
 * [Pot](https://github.com/Josephine-Chen/KattisSolutions/blob/master/pot.py)
+* [Ptice](https://github.com/Josephine-Chen/KattisSolutions/blob/master/ptice.py)
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
 * [Seven Wonders](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sevenwonders.py)
@@ -55,7 +58,7 @@ Feel free to PR if you have a faster solution.
 * Using {}.format(x) is a useful way of organizing prints
 * If the problem mentions 10^-6, use float
 
-## Notes on Python
+## Notes to Self on Python
 * === is not used in Python
 * bin() adds information about bytes
 * You don't have to worry about popping, shifting, etc. Just use pop(index).
@@ -66,3 +69,4 @@ Feel free to PR if you have a faster solution.
 * sum(map(int, str(x))) to sum all digits in number
 * TypeError can come from len(array), so convert array to list using list(array)
 * Sort dictionary values using sorted(d.items(), key = lambda x: x[1]) in increasing order
+* Using count is slow -- don't use it if optimizing for speed (like for Odd Man Out)
