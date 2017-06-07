@@ -3,7 +3,7 @@ Python practice and learning how to use Kattis.
 
 Feel free to PR if you have a faster solution.
 
-## Easy
+## Problems
 * [Apaxiaaaaaaaaaaaans!](https://github.com/Josephine-Chen/KattisSolutions/blob/master/apaxiaaans.py)
 * [Autori](https://github.com/Josephine-Chen/KattisSolutions/blob/master/autori.py)
 * [Bela](https://github.com/Josephine-Chen/KattisSolutions/blob/master/bela.py)
@@ -30,6 +30,7 @@ Feel free to PR if you have a faster solution.
 * [Solving for Carrots](https://github.com/Josephine-Chen/KattisSolutions/blob/master/carrots.py)
 * [Spavanac](https://github.com/Josephine-Chen/KattisSolutions/blob/master/spavanac.py)
 * [Speed Limit](https://github.com/Josephine-Chen/KattisSolutions/blob/master/speedlimit.py)
+* [Stand on Zanzibar](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zanzibar.py)
 * [Statistics](https://github.com/Josephine-Chen/KattisSolutions/blob/master/statistics.py)
 * [Stuck In A Time Loop](https://github.com/Josephine-Chen/KattisSolutions/blob/master/timeloop.py)
 * [Symmetric Order](https://github.com/Josephine-Chen/KattisSolutions/blob/master/symmetricorder.py)
@@ -60,3 +61,4 @@ Feel free to PR if you have a faster solution.
 * Regex is different. Use findall(r'something', string) to find all something in string.
 * trig is in radians
 * sum(map(int, str(x))) to sum all digits in number
+* TypeError can come from len(array), so convert array to list using list(array)
