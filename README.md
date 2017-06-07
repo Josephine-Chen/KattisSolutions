@@ -27,11 +27,13 @@ Feel free to PR if you have a faster solution.
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
 * [Sibice](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sibice.py)
 * [Simon Says](https://github.com/Josephine-Chen/KattisSolutions/blob/master/simonsays.py)
+* [Skener](https://github.com/Josephine-Chen/KattisSolutions/blob/master/skener.py)
 * [Solving for Carrots](https://github.com/Josephine-Chen/KattisSolutions/blob/master/carrots.py)
 * [Spavanac](https://github.com/Josephine-Chen/KattisSolutions/blob/master/spavanac.py)
 * [Speed Limit](https://github.com/Josephine-Chen/KattisSolutions/blob/master/speedlimit.py)
 * [Stand on Zanzibar](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zanzibar.py)
 * [Statistics](https://github.com/Josephine-Chen/KattisSolutions/blob/master/statistics.py)
+* [Stacking Cups](https://github.com/Josephine-Chen/KattisSolutions/blob/master/cups.py)
 * [Stuck In A Time Loop](https://github.com/Josephine-Chen/KattisSolutions/blob/master/timeloop.py)
 * [Symmetric Order](https://github.com/Josephine-Chen/KattisSolutions/blob/master/symmetricorder.py)
 * [Take Two Stones](https://github.com/Josephine-Chen/KattisSolutions/blob/master/twostones.py)
@@ -62,3 +64,4 @@ Feel free to PR if you have a faster solution.
 * trig is in radians
 * sum(map(int, str(x))) to sum all digits in number
 * TypeError can come from len(array), so convert array to list using list(array)
+* Sort dictionary values using sorted(d.items(), key = lambda x: x[1]) in increasing order
