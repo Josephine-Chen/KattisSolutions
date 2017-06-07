@@ -28,6 +28,7 @@ Feel free to PR if you have a faster solution.
 * [Ptice](https://github.com/Josephine-Chen/KattisSolutions/blob/master/ptice.py)
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
+* [Scaling Recipes](https://github.com/Josephine-Chen/KattisSolutions/blob/master/recipes.py)
 * [Seven Wonders](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sevenwonders.py)
 * [Sibice](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sibice.py)
 * [Simon Says (1.6 difficulty)](https://github.com/Josephine-Chen/KattisSolutions/blob/master/simonsays.py)
