@@ -3,7 +3,7 @@ Python practice and learning how to use Kattis.
 
 Feel free to PR if you have a faster solution.
 
-## Problems
+## Problems under difficulty 2.0
 * [Apaxiaaaaaaaaaaaans!](https://github.com/Josephine-Chen/KattisSolutions/blob/master/apaxiaaans.py)
 * [Autori](https://github.com/Josephine-Chen/KattisSolutions/blob/master/autori.py)
 * [Bela](https://github.com/Josephine-Chen/KattisSolutions/blob/master/bela.py)
@@ -17,6 +17,7 @@ Feel free to PR if you have a faster solution.
 * [FizzBuzz](https://github.com/Josephine-Chen/KattisSolutions/blob/master/fizzbuzz.py)
 * [Grass Seed Inc.](https://github.com/Josephine-Chen/KattisSolutions/blob/master/grassseed.py)
 * [Hello World!](https://github.com/Josephine-Chen/KattisSolutions/blob/master/hello.py)
+* [Hidden Password](https://github.com/Josephine-Chen/KattisSolutions/blob/master/hidden.py)
 * [I've Been Everywhere, Man](https://github.com/Josephine-Chen/KattisSolutions/blob/master/everywhere.py)
 * [Ladder](https://github.com/Josephine-Chen/KattisSolutions/blob/master/ladder.py)
 * [Mixed Fractions](https://github.com/Josephine-Chen/KattisSolutions/blob/master/mixedfractions.py)
@@ -52,6 +53,9 @@ Feel free to PR if you have a faster solution.
 * [Un-bear-able Zoo](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zoo.py)
 * [Zamka](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zamka.py)
 
+## Problems at difficulty 2.0 or higher
+* [Musical Notation](https://github.com/Josephine-Chen/KattisSolutions/blob/master/musicalnotation.py)
+* [Sum of the Others](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sumoftheothers.py)
 
 ## Notes about problem-solving
 * input() gets one line of input at a time. Call it again to get the next line.
@@ -60,7 +64,7 @@ Feel free to PR if you have a faster solution.
 * Using {}.format(x) is a useful way of organizing prints
 * If the problem mentions 10^-6, use float
 
-## Notes to Self on Python
+## Notes to self on Python
 * === is not used in Python
 * bin() adds information about bytes
 * You don't have to worry about popping, shifting, etc. Just use pop(index).
