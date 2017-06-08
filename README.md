@@ -57,6 +57,7 @@ Feel free to PR if you have a faster solution.
 * [Musical Notation](https://github.com/Josephine-Chen/KattisSolutions/blob/master/musicalnotation.py)
 * [Pig Latin](https://github.com/Josephine-Chen/KattisSolutions/blob/master/piglatin.py)
 * [Sum of the Others](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sumoftheothers.py)
+* [Train Passengers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/trainpassengers.py)
 
 ## Notes about problem-solving
 * input() gets one line of input at a time. Call it again to get the next line.
@@ -77,3 +78,4 @@ Feel free to PR if you have a faster solution.
 * TypeError can come from len(array), so convert array to list using list(array)
 * Sort dictionary values using sorted(d.items(), key = lambda x: x[1]) in increasing order
 * Using count is slow -- don't use it if optimizing for speed (like for Odd Man Out)
+* x = map(int, input().split()) is not subscriptable. Make into list before calling x[0], etc.
