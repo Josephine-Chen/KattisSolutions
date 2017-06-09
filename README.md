@@ -54,6 +54,7 @@ Feel free to PR if you have a faster solution.
 * [Zamka](https://github.com/Josephine-Chen/KattisSolutions/blob/master/zamka.py)
 
 ## Problems at difficulty 2.0 or higher
+* [Engineering English](https://github.com/Josephine-Chen/KattisSolutions/blob/master/engineeringenglish.py)
 * [Musical Notation](https://github.com/Josephine-Chen/KattisSolutions/blob/master/musicalnotation.py)
 * [Pig Latin](https://github.com/Josephine-Chen/KattisSolutions/blob/master/piglatin.py)
 * [Printing Costs](https://github.com/Josephine-Chen/KattisSolutions/blob/master/printingcosts.py)
