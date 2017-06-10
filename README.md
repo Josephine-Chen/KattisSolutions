@@ -67,6 +67,7 @@ Feel free to PR if you have a faster solution.
 * You need to import sys to use sys.stdin. Good way to handle cases where the number of inputs is unknown.
 * Using {}.format(x) is a useful way of organizing prints
 * If the problem mentions 10^-6, use float
+* If it's a simple problem and an unknown test case keeps failing, just re-write it using another method.
 
 ## Notes to self on Python
 * === is not used in Python
