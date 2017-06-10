@@ -60,6 +60,7 @@ Feel free to PR if you have a faster solution.
 * [Printing Costs](https://github.com/Josephine-Chen/KattisSolutions/blob/master/printingcosts.py)
 * [Sum of the Others](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sumoftheothers.py)
 * [Train Passengers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/trainpassengers.py)
+* [Variable Arithmetic](https://github.com/Josephine-Chen/KattisSolutions/blob/master/variablearithmetic.py)
 
 ## Notes about problem-solving
 * input() gets one line of input at a time. Call it again to get the next line.
