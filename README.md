@@ -82,3 +82,4 @@ Feel free to PR if you have a faster solution.
 * Sort dictionary values using sorted(d.items(), key = lambda x: x[1]) in increasing order
 * Using count is slow -- don't use it if optimizing for speed (like for Odd Man Out)
 * x = map(int, input().split()) is not subscriptable. Make into list before calling x[0], etc.
+* re.sub(r'([a-z])\1+',r'\1',str) replaces sequential duplicates with single in str
