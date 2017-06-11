@@ -69,6 +69,7 @@ Feel free to PR if you have a faster solution.
 * Using {}.format(x) is a useful way of organizing prints
 * If the problem mentions 10^-6, use float
 * If it's a simple problem and an unknown test case keeps failing, just re-write it using another method.
+* If number of inputs is unknown, use try: and except EOFError: break
 
 ## Notes to self on Python
 * === is not used in Python
