@@ -56,6 +56,7 @@ Feel free to PR if you have a faster solution.
 
 ## Problems at difficulty 2.0 or higher
 * [Black Friday](https://github.com/Josephine-Chen/KattisSolutions/blob/master/blackfriday.py)
+* [Bus Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/busnumbers.py)
 * [Engineering English](https://github.com/Josephine-Chen/KattisSolutions/blob/master/engineeringenglish.py)
 * [Musical Notation](https://github.com/Josephine-Chen/KattisSolutions/blob/master/musicalnotation.py)
 * [Pig Latin](https://github.com/Josephine-Chen/KattisSolutions/blob/master/piglatin.py)
