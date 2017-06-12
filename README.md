@@ -19,6 +19,7 @@ Feel free to PR if you have a faster solution.
 * [Grass Seed Inc.](https://github.com/Josephine-Chen/KattisSolutions/blob/master/grassseed.py)
 * [Hello World!](https://github.com/Josephine-Chen/KattisSolutions/blob/master/hello.py)
 * [Hidden Password](https://github.com/Josephine-Chen/KattisSolutions/blob/master/hidden.py)
+* [Hitting Targets](https://github.com/Josephine-Chen/KattisSolutions/blob/master/hittingtargets.py)
 * [I've Been Everywhere, Man](https://github.com/Josephine-Chen/KattisSolutions/blob/master/everywhere.py)
 * [Ladder](https://github.com/Josephine-Chen/KattisSolutions/blob/master/ladder.py)
 * [Mixed Fractions](https://github.com/Josephine-Chen/KattisSolutions/blob/master/mixedfractions.py)
