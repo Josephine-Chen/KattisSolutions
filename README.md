@@ -30,6 +30,7 @@ Feel free to PR if you have a faster solution.
 * [Pot](https://github.com/Josephine-Chen/KattisSolutions/blob/master/pot.py)
 * [Ptice](https://github.com/Josephine-Chen/KattisSolutions/blob/master/ptice.py)
 * [R2](https://github.com/Josephine-Chen/KattisSolutions/blob/master/r2.py)
+* [Ragged Right](https://github.com/Josephine-Chen/KattisSolutions/blob/master/raggedright.py)
 * [Reversed Binary Numbers](https://github.com/Josephine-Chen/KattisSolutions/blob/master/reversebinary.py)
 * [Scaling Recipes](https://github.com/Josephine-Chen/KattisSolutions/blob/master/recipes.py)
 * [Seven Wonders](https://github.com/Josephine-Chen/KattisSolutions/blob/master/sevenwonders.py)
