@@ -11,18 +11,18 @@ for line in sys.stdin.readlines():
       wasteless += n[i] + ' '
   print(wasteless.strip())
 
-#Another way to solve
+#Another way to solve (.27s). Above runs in (.25s)
 dupe = list()
 while True:
   try:
     eff = list()
     n = input().split()
     for i in range(len(n)):
-      if n[i] in dupe:
+      if n[i].lower() in dupe:
         eff.append('.')
       else:
-        dupe.append(n[i])
+        dupe.append(n[i].lower())
         eff.append(n[i])
-    print(eff)
+    print(' '.join(eff))
   except EOFError:
     break
