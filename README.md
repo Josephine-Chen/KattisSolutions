@@ -8,6 +8,7 @@ Feel free to PR if you have a faster solution.
 * [Autori](https://github.com/Josephine-Chen/KattisSolutions/blob/master/autori.py)
 * [Bela](https://github.com/Josephine-Chen/KattisSolutions/blob/master/bela.py)
 * [Bijele](https://github.com/Josephine-Chen/KattisSolutions/blob/master/bijele.py)
+* [Bounding Robots](https://github.com/Josephine-Chen/KattisSolutions/blob/master/boundingrobots.py)
 * [Cetvrta](https://github.com/Josephine-Chen/KattisSolutions/blob/master/cetvrta.py)
 * [Cold-puter Science](https://github.com/Josephine-Chen/KattisSolutions/blob/master/cold.py)
 * [Cryptographer's Conundrum](https://github.com/Josephine-Chen/KattisSolutions/blob/master/conundrum.py)
